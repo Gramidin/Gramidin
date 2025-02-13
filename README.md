@@ -49,15 +49,13 @@ I am a Developer from Russia.
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gramidin&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gramidin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gramidin&theme=react-dark&height=200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gramidin&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gramidin&theme=react-dark&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://komarev.com/ghpvc/?username=Gramidin&style=flat-square&color=blue" alt=""/>
-
-
 
 <!--
 ### :writing_hand: Blog Posts :
