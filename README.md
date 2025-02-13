@@ -53,7 +53,11 @@ I am a Developer from Russia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gramidin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gramidin&theme=react-dark&height=200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://komarev.com/ghpvc/?username=Gramidin&style=flat-square&color=blue" alt=""/>
+
+
 
 <!--
 ### :writing_hand: Blog Posts :
